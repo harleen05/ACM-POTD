@@ -1,1 +1,1 @@
-Questions: https://acmigdtuw-potd.vercel.app/event/spring-2026
+Questions: https://acmigdtuw-potd.vercel.app/
